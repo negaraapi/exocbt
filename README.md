@@ -6,7 +6,7 @@ Tested on : Ubuntu 20.04
 ## Installation (IP No Domain)
 
 ```bash
-git clone https://github.com/smkn1kejobong/exocbt
+git clone https://github.com/negaraapi/exocbt
 cd exocbt
 chmod +x configure-ip.sh
 ./configure-ip.sh
@@ -33,7 +33,7 @@ socket.cbtexo.com [SUB DOMAIN 3][Socket]
 
 
 ```bash
-git clone https://github.com/smkn1kejobong/exocbt
+git clone https://github.com/negaraapi/exocbt
 cd exocbt
 chmod +x configure-domain.sh
 ./configure-domain.sh
